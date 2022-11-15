@@ -53,19 +53,12 @@ class App extends Component {
       lastname={this.state.note.lastname}
       telephone={this.state.note.telephone}
       role={this.state.note.role}
+      messsage = {this.state.note.messsage}
       reset ={this.reset}
       savesend ={this.submitHandler} /> )}
     return (
       <div className="App">
         {Rtn}
-
-{/* 
-
-         <Popup firstname={this.state.note.firstname}
-          LastName={this.state.note.lastname}
-          Telephone={this.state.note.telephone}
-          Role={this.state.note.role} />  */}
-
 
       </div>
     );
