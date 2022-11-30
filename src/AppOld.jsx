@@ -5,7 +5,7 @@ import Form from './Form';
 import View from './View';
 import Popup from './Popup';
 
-class App extends Component {
+class AppOld extends Component {
 
   state = {
     note: {
@@ -66,4 +66,4 @@ class App extends Component {
 }
 
 
-export default App;
+export default AppOld;

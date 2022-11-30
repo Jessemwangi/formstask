@@ -12,11 +12,11 @@
 }
 
 span{
-    width: 60%;
+    width: 100%;
     display: list-item;
     list-style: none;
     padding: 0.5rem;
-    border-bottom: solid 2px white;
+    /* border-bottom: solid 2px white; */
    
 }
 button{
@@ -24,4 +24,11 @@ button{
     width: 40%;
     font-weight: bold;
     color: green;
+}
+
+.userContents{
+    border: white 2px solid;
+    width: 100%;
+    margin: 5px;
+    border-radius: 7px;
 }

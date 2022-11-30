@@ -1,0 +1,44 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "firstname": "jesse",
+      "lastname": "peter",
+      "role": "",
+      "phone": "12345677",
+      "message": "happy to be learning"
+    },
+    {
+      "id": 2,
+      "firstname": "tom",
+      "lastname": "mary",
+      "role": 2,
+      "phone": "345678",
+      "message": "happy to be learning"
+    },
+    {
+      "id": 3,
+      "firstname": "luke",
+      "lastname": "engag",
+      "role": 3,
+      "phone": "456709",
+      "message": "happy to be learning"
+    },
+    {
+      "id": 4,
+      "firstname": "goodname",
+      "lastname": "always",
+      "role": 4,
+      "telephone": "0987655",
+      "messsage": "happy to be learning"
+    },
+    {
+      "firstname": "this",
+      "lastname": "is ",
+      "telephone": "+254734232991",
+      "role": "3",
+      "messsage": "hi hi hi",
+      "id": 5
+    }
+  ]
+}

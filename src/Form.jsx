@@ -1,8 +1,11 @@
-import React from 'react';
+import React ,{useRef,useEffect,useState} from 'react';
 import './Form.css';
 
 const Form = (props) => {
-
+    const [firstname,setfirstname] =useState();
+    const [lastname,setlastname]=useState();
+    const [telephone,settelephone] = useState();
+    const [role,setrole]=useState()
     return (
         <form onSubmit={props.submit} onChange={props.change} >
             <div className='inputs'>
